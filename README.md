@@ -319,5 +319,5 @@ If `port` is not set, the server will run on port 3000 by default.
 4. [Deploy the app code](https://devcenter.heroku.com/articles/git#deploying-code):
 
     ```sh
-    git push heroku master
+    git push heroku main
     ```
